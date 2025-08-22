@@ -38,4 +38,10 @@ Business reporting and dashboards.
 
 Reliable data pipelines for analytics.
 
-Clean and standardized datasets for machine learning workflows.         
+Clean and standardized datasets for machine learning workflows.    
+
+<img width="1439" height="807" alt="Screenshot 2025-08-17 at 14 25 57" src="https://github.com/user-attachments/assets/bc19855c-9a9d-456a-b4ec-be550b8f8789" />
+<img width="1437" height="808" alt="Screenshot 2025-08-19 at 22 57 55" src="https://github.com/user-attachments/assets/78c78cf2-ed30-4d6b-9380-a9cfc7ad5d62" />
+<img width="1440" height="809" alt="Screenshot 2025-08-17 at 14 29 46" src="https://github.com/user-attachments/assets/b38245ca-4321-4bab-b685-69210f31d437" />
+<img width="261" height="185" alt="Screenshot 2025-08-21 at 16 33 58" src="https://github.com/user-attachments/assets/79986edf-df43-47a3-88f0-b99357e7162b" />
+<img width="1440" height="813" alt="Screenshot 2025-08-21 at 16 33 31" src="https://github.com/user-attachments/assets/0895c392-e284-40c0-9463-c22ad517e58c" />
